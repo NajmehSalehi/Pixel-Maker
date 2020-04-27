@@ -1,9 +1,8 @@
 # Pixel Art Maker Project
 
 
-_______________________________
-##Goal
-_______________________________
+## Goal 
+
 The goal is to create a canvas of any size and be able to choose different colors using color picker and paint the canvas via clicking!
 
 ## Table of Contents
